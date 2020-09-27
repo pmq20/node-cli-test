@@ -1,6 +1,6 @@
 {
   "name": "@saurabhdeep/node-cli-test",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Node based CLI project to test node-packer",
   "bin": {
     "npkr": "./bin/cli.js"
