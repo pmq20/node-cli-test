@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# OS-specific files
+.DS_Store
+
+# local config files
+.env
+
+# Folders used by plugins and IDE
+.vscode/*
+.appirio/
+
+#Local test files
+/test*.js
+
+# Include debugging configuration
+!.vscode/launch.json
+
+# Unit testing output
+/coverage

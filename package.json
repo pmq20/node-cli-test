@@ -1,0 +1,25 @@
+{
+  "name": "@saurabhdeep/node-cli-test",
+  "version": "0.0.1",
+  "description": "Node based CLI project to test node-packer",
+  "bin": {
+    "npkr": "./bin/cli.js"
+  },
+  "repository": "https://github.com/saurabh-deep/node-cli-test.git",
+  "author": "Saurabh Deep",
+  "license": "MIT",
+  "keywords": [
+    "node-packer",
+    "Node.js",
+    "CLI",
+    "Binary"
+  ],
+  "dependencies": {
+    "@saurabhdeep/cli-test-sfdc": "^1.0.4",
+    "ansi-colors": "^1.1.0",
+    "dotenv": "^4.0.0",
+    "fancy-log": "^1.3.2",
+    "lodash": "^4.17.20",
+    "pretty-hrtime": "^1.0.3"
+  }
+}
